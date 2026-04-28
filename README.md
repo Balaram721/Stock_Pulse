@@ -1,7 +1,5 @@
 # Stock_Pulse
 
-# Stock_Pulse
-
 Stock_Pulse is a small full-stack application for tracking stock alerts, portfolios and news. The frontend is a Vite + React client and the backend is an Express API that uses MySQL (AWS RDS) for persistence.
 
 ## Table of Contents
